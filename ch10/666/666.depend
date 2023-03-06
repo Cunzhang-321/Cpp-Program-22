@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1672043395 source:d:\docs\cpp\ch10\666\main.cpp
+	<iostream>
+	"Longlongint.h"
+
+1672041237 d:\docs\cpp\ch10\666\longlongint.h
+	<iostream>
+
+1672044289 source:d:\docs\cpp\ch10\666\longlongint.cpp
+	"Longlongint.h"
+	<iostream>
+	<cstring>
+
