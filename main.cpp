@@ -1,5 +1,6 @@
 #include <iostream>
 
-int main(int, char**) {
+int main() {
+    std::ios::sync_with_stdio(false);
     std::cout << "Hello, world!\n";
 }
